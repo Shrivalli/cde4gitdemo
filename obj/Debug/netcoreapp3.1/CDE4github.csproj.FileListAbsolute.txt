@@ -1,0 +1,9 @@
+G:\INTCDE20ID004\CDE4github\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\INTCDE20ID004\CDE4github\bin\Debug\netcoreapp3.1\appsettings.json
+G:\INTCDE20ID004\CDE4github\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\CDE4github.csprojAssemblyReference.cache
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\CDE4github.AssemblyInfoInputs.cache
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\CDE4github.AssemblyInfo.cs
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\CDE4github.RazorTargetAssemblyInfo.cache
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\staticwebassets\CDE4github.StaticWebAssets.Manifest.cache
+G:\INTCDE20ID004\CDE4github\obj\Debug\netcoreapp3.1\staticwebassets\CDE4github.StaticWebAssets.xml
