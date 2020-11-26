@@ -20,6 +20,7 @@ namespace CDE4github.Controllers
             names.Add("Vandhana");
             names.Add("Wasim");
             names.Add("Radha");
+            names.Add("Srujana");
             return names;
         }
     }
